@@ -1,4 +1,4 @@
-# Apollo11 - Knowledge Base Slack Bot - (for Hackathon)
+# Apollo11 - Knowledge Base Slack Bot service layer - (for Hackathon)
 
 
 ## pre-requisites
